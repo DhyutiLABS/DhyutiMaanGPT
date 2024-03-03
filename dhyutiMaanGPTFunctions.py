@@ -1,3 +1,6 @@
+'''
+"Copyright [2024] [Rahul Sundar]"
+'''
 import time, os
 import io
 import scipy
