@@ -1,3 +1,7 @@
+'''
+"Copyright [2024] [Rahul Sundar]"
+'''
+
 from collections import namedtuple
 import altair as alt
 
